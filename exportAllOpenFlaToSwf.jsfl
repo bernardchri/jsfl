@@ -1,5 +1,6 @@
-//Script pour publier tous les fichiers .fla ouvert dans flash
-
+/* Christophe Bernard
+-- Script pour publier tous les fichiers .fla ouverts dans flash
+*/
 
 //on crée une variable avec tous les documents ouverts
 var openDocs = fl.documents;
